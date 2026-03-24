@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vAND
+Z0 !s110 1772229778
+!i10b 1
+!s100 DRJBS]VkbCPkCQYQHSjgX3
+IFILXI;m:[WeM<LAW`9FkD2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Digital IC/Projects/AND
+w1772213728
+8E:/Digital IC/Projects/AND/AND.v
+FE:/Digital IC/Projects/AND/AND.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1772229778.000000
+!s107 E:/Digital IC/Projects/AND/AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Digital IC/Projects/AND/AND.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@n@d
+vAND_TB
+R0
+!i10b 1
+!s100 fMQleZ_V4HhHD>:FeK9_`2
+I[gFDE`l^[_]^JF:2acz673
+R1
+R2
+w1772229764
+8E:/Digital IC/Projects/AND/AND_TB.v
+FE:/Digital IC/Projects/AND/AND_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/Digital IC/Projects/AND/AND_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Digital IC/Projects/AND/AND_TB.v|
+!i113 1
+R5
+R6
+n@a@n@d_@t@b
